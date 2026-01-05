@@ -98,12 +98,8 @@ I’m on a journey to become a **Cloud Solution Architect (CSA)**, focusing on *
 - **Azure Security Labs** (Key Vault, RBAC, Disk Encryption)
 - **CI/CD Pipelines** with Azure DevOps
 
----
 
-## 🔗 Connect with Me
 
-!LinkedIn  
-!GitHub
 
 ---
 
